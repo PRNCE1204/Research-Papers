@@ -6,22 +6,36 @@ This repository contains my published research work in **AI/ML, Federated Learni
 
 ## 🔬 Papers
 
-### 1. DiabSecure
-- 📌 Federated-TinyML-enabled privacy-preserving diabetes risk assessment
-- 🧠 Tech: Federated Learning, TinyML, Blockchain
-- 📍 Accepted at CITS 2025
-
-### 2. DriveShield
-- 🚗 Federated Learning-based jamming attack detection in V2X communication
-- 🧠 Tech: FL, 6G, Security Systems
-- 📍 Accepted at IEEE VTC 2025
-
-### 3. SDNSecure
-- 🌐 Federated CNN-based traffic analytics with blockchain storage
-- 🧠 Tech: CNN, FL, SDN, Blockchain
-- 📍 Accepted at GLOBCOM 2025
+### 🧠 DiabSecure
+Federated TinyML-based privacy-preserving diabetes prediction system  
+📍 Accepted at: CITS 2025  
+🔗 [View Details](./DiabSecure)
 
 ---
 
-## 🧠 About Me
+### 🚗 DriveShield
+Federated Learning-based jamming attack detection in VANETs  
+📍 Accepted at: IEEE VTC 2025  
+🔗 [View Details](./DriveShield)
+
+---
+
+### 🌐 SDNSecure
+Federated CNN-based traffic analytics with blockchain storage  
+📍 Accepted at: GLOBCOM 2025  
+🔗 [View Details](./SDNSecure)
+
+---
+
+## 🛠️ Tech Stack
+- Federated Learning (FL)
+- Machine Learning / Deep Learning
+- Blockchain & IPFS
+- TinyML
+- 6G / VANET / SDN Systems
+
+---
+
+## 👨‍💻 Author
+**Prince Tandel**  
 CSE @ Nirma University | MERN & AI/ML Developer | 500+ DSA 🚀
